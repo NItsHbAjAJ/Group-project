@@ -6,7 +6,7 @@ package groupproject;
 
 /**
  *
- * @author bajaj
+ * @author  Nitesh bajaj
  */
 public class GroupProject {
 
